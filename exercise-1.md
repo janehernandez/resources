@@ -1,4 +1,4 @@
-# Exercise: Building and Version Controlling a Personal Portfolio Website
+# Exercise 1: Building and Version Controlling a Personal Portfolio Website
 
 **Objective**: Learn how to create a simple personal portfolio website using HTML and CSS and manage the project using Git for version control.
 
@@ -227,3 +227,5 @@
    - CSS Peek by Pranay Prakash (to allow you to check class strings as definitions from html)
 
 By following these steps, you will gain hands-on experience with creating a simple website using HTML and CSS while learning to manage your project with Git.
+
+Happy Coding :) 
